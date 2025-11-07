@@ -1,10 +1,15 @@
 # PoletoWin-No11
-Windows11の高負荷やトラブルの原因となる設定をコントロールし、安定性とプライバシーを強化します。Control settings that can cause high load or issues in Windows 11 while enhancing stability and privacy.
+Windows11の高負荷やトラブルの原因となる設定をコントロールし、安定性とプライバシーを強化します。
 
 ## 生成AI仕様表明
 
 ![GenbyAI](GenbyAI/GBAM-NC-01Wh.png)<br>
 このアプリは、「Claude Sonnet 4.5 Thinking」によってコーディング及びUI設計が行われました。
+
+## 免責事項
+
+このアプリは、**Windowsのレジストリをはじめとした重要な場所の設定を行う項目があります。**
+**このツールを使用したことによるシステム損壊やデータ損失など、一切の責任は負いません。**リスクを許容できる方のみご使用ください。
 
 ## 各種機能説明
 
