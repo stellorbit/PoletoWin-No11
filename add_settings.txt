@@ -1,0 +1,10 @@
+"new_setting": RegistrySettingItem(
+    name="設定名",
+    description="設定の説明",
+    key_path=r"レジストリキーのパス",
+    value_name="値の名前",
+    value_type=winreg.REG_DWORD,  # またはREG_SZ
+    enabled_value=1,
+    disabled_value=0,
+    labels=("有効", "無効")
+),
