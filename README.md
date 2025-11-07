@@ -3,6 +3,7 @@ Windows11の高負荷やトラブルの原因となる設定をコントロー�
 
 ## 生成AI仕様表明
 
+![GenbyAI](GenbyAI/GBAM-NC-01Wh.png)
 このアプリは、「Claude Sonnet 4.5 Thinking」によってコーディング及びUI設計が行われました。
 
 ## 各種機能説明
